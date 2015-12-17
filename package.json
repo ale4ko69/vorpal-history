@@ -1,0 +1,20 @@
+{
+  "name": "vorpal-history",
+  "version": "0.1.0",
+  "description": "Adds a simple history to Vorpal apps.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "vorpal",
+    "vorpaljs",
+    "cli",
+    "history"
+  ],
+  "author": "Giovanni T. Parra",
+  "license": "MIT",
+  "dependencies": {
+    "dedupe": "^1.0.2"
+  }
+}
